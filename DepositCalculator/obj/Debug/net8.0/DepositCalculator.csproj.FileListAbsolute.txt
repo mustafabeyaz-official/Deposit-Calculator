@@ -1,0 +1,14 @@
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.exe
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.deps.json
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.runtimeconfig.json
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.dll
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\bin\Debug\net8.0\DepositCalculator.pdb
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.AssemblyInfo.cs
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.dll
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\refint\DepositCalculator.dll
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.pdb
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\DepositCalculator.genruntimeconfig.cache
+C:\Users\musta\Desktop\apps\web\DepositCalculator\DepositCalculator\obj\Debug\net8.0\ref\DepositCalculator.dll
